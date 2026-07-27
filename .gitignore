@@ -1,0 +1,5 @@
+settings.json
+.venv
+build
+dist
+__pycache__
