@@ -1,7 +1,7 @@
 *If you want to download and run this program, click on "Releases"
 to obtain the `.exe` file.*
 
-# Orbitals
+# Electron Orbital Viewer
 
 This program renders electron orbitals.
 
